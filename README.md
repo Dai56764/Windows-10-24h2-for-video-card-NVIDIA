@@ -3,4 +3,5 @@ Due to problems with Windows 10 support and this video card, there will be a Win
 # Why is there no release yet?
 if there is no release for you, it means the build has not been released yet and persistent development is if there is no release for you, it means the build has not been released yet and persistent development is underway
 
-# screenshots
+# Screenshots
+None
