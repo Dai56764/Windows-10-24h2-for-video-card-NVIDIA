@@ -1,0 +1,1 @@
+# Windows-10-24h2-for-video-card-NVIDIA
